@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Grazielly, tenho 20 anos e moro em São Paulo. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, cursando com bolsa integral. Tenho grande interesse pela área de tecnologia e estou constantemente buscando me desenvolver. Recentemente, iniciei um curso de inglês, por entender que o domínio do idioma é essencial tanto para a área de TI quanto para meu crescimento profissional
+Me chamo Grazielly, tenho 20 anos e moro em São Paulo. Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando com bolsa integral. Tenho grande interesse pela área de tecnologia e estou sempre em busca de novos aprendizados e desafios que contribuam para meu crescimento profissional. Recentemente iniciei um curso de inglês, reconhecendo a importância do idioma tanto para minha carreira na área de TI quanto para o meu desenvolvimento pessoal.
 
   <a href="https://github.com/graziellyferreira?tab=repositories&sort=stargazers">
         <img 
